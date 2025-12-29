@@ -62,3 +62,24 @@
 <img width="577" height="377" alt="image" src="https://github.com/user-attachments/assets/4c0d6ce5-659e-4797-b686-bbd5f3af4d4c" />
 <img width="782" height="650" alt="image" src="https://github.com/user-attachments/assets/592c2455-4d58-4b65-95f9-e835659fdced" />
 
+# Find the Total Funded Amount with respect to term type
+
+<img width="485" height="558" alt="image" src="https://github.com/user-attachments/assets/a378fb7a-7ddc-47f8-9cb0-58a2ce3a6b87" />
+
+# Find the Total Funded Amount with respect to employment length
+
+<img width="351" height="425" alt="image" src="https://github.com/user-attachments/assets/ca3214b9-fe66-4ae1-b32e-62e08cc55af6" />
+<img width="801" height="478" alt="image" src="https://github.com/user-attachments/assets/153254b7-78a5-40c3-b0e4-6a9f96efaa70" />
+
+# Find the Total Funded Amount with respect to loan purpose
+
+<img width="465" height="430" alt="image" src="https://github.com/user-attachments/assets/20e98b62-37bd-4489-a2c5-d5e853e96e97" />
+<img width="795" height="477" alt="image" src="https://github.com/user-attachments/assets/c4eaf72b-83e0-4508-a4ab-c32d488fd0d3" />
+
+# Find the Total Funded Amount with respect to Home ownership
+
+<img width="790" height="606" alt="image" src="https://github.com/user-attachments/assets/04cfa368-f9fb-4899-8d9f-526135d03d22" />
+
+
+
+
