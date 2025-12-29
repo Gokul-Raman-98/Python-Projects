@@ -49,5 +49,16 @@
 
 <img width="795" height="758" alt="image" src="https://github.com/user-attachments/assets/471b8904-46bb-41e4-89fd-c9f3a33e8b52" />
 
+# Find the Total Received amount for each month
 
+<img width="801" height="760" alt="image" src="https://github.com/user-attachments/assets/57d2831d-3703-47e3-8262-2f6b0290285c" />
+
+# Find the Total Loan Applications for each month
+
+<img width="798" height="746" alt="image" src="https://github.com/user-attachments/assets/b47dbcc4-320a-45b4-9e67-6ad19ad30f66" />
+
+# Find the Total Funded Amount for each region
+
+<img width="577" height="377" alt="image" src="https://github.com/user-attachments/assets/4c0d6ce5-659e-4797-b686-bbd5f3af4d4c" />
+<img width="782" height="650" alt="image" src="https://github.com/user-attachments/assets/592c2455-4d58-4b65-95f9-e835659fdced" />
 
