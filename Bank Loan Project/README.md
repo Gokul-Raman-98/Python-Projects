@@ -19,7 +19,7 @@
 
 # Find MTD Total Funded Amount
 
-<img width="808" height="235" alt="image" src="https://github.com/user-attachments/assets/6ceb1db6-bfff-4b15-8944-46207451c40a" />
+<img width="803" height="263" alt="image" src="https://github.com/user-attachments/assets/041a052d-17b7-47ae-8579-c6c1ef122d26" />
 
 # Find Total Amount Received
 
