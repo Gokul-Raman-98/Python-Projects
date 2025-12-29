@@ -25,3 +25,29 @@
 
 <img width="623" height="132" alt="image" src="https://github.com/user-attachments/assets/8318650d-268f-4fba-b24f-b48928e43016" />
 
+# Find MTD Total Amount Received
+
+<img width="810" height="247" alt="image" src="https://github.com/user-attachments/assets/80b330d5-5a7b-4ac6-91b8-0faaac67b763" />
+
+# Find Average Interest Rate
+
+<img width="477" height="121" alt="image" src="https://github.com/user-attachments/assets/78a0a1d6-b5d8-47aa-90cc-ec406dfe0b10" />
+
+# Find Average Debt-to-Income Ratio (DTI)
+
+<img width="361" height="110" alt="image" src="https://github.com/user-attachments/assets/547a90a7-c8ab-45be-8587-0c483b1ba2c5" />
+
+# Display Good Loan Metrics
+
+<img width="755" height="412" alt="image" src="https://github.com/user-attachments/assets/cc8ddc11-7c36-4fb7-8bb8-dceb6c86c80a" />
+
+# Display Bad Loan Metrics
+
+<img width="747" height="415" alt="image" src="https://github.com/user-attachments/assets/d4277396-0e83-4405-a4bf-fb55294ddd2c" />
+
+# Find the Total Funded amount for each month
+
+<img width="795" height="758" alt="image" src="https://github.com/user-attachments/assets/471b8904-46bb-41e4-89fd-c9f3a33e8b52" />
+
+
+
