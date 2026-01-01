@@ -33,5 +33,6 @@ The goal of this project is to:
 # Find the duplicate rows in the data
 <img width="235" height="97" alt="image" src="https://github.com/user-attachments/assets/b1238f42-ae60-4601-90a8-af3eaa000bb7" />
 
+## Result
 <img width="502" height="683" alt="image" src="https://github.com/user-attachments/assets/34f0dbe3-56c5-47a7-a146-c03893db9e14" />
 
