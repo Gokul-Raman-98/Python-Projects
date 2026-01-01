@@ -36,3 +36,14 @@ The goal of this project is to:
 ## Result
 <img width="502" height="683" alt="image" src="https://github.com/user-attachments/assets/34f0dbe3-56c5-47a7-a146-c03893db9e14" />
 
+# Delete the duplicate rows
+<img width="295" height="115" alt="image" src="https://github.com/user-attachments/assets/1f99034f-3098-4949-b53f-8bab2bbc1b55" />
+
+# Change the datatypes of id and host_id columns
+<img width="351" height="573" alt="image" src="https://github.com/user-attachments/assets/e414fd2a-3184-4d60-ad5f-578f66f291b0" />
+
+
+
+
+
+
