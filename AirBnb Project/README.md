@@ -23,3 +23,10 @@ The goal of this project is to:
 
 # Give the statistical summaery of the data
 <img width="1008" height="330" alt="image" src="https://github.com/user-attachments/assets/06f634bb-e298-4613-a983-091b1be31b8e" />
+
+# Find the no. of null values in the columns
+<img width="297" height="472" alt="image" src="https://github.com/user-attachments/assets/5da0db63-18b2-495d-8468-ff702c2a9168" />
+
+# Drop the null values in the columns
+<img width="293" height="502" alt="image" src="https://github.com/user-attachments/assets/5aef441d-064d-4af9-9e75-21a488efd722" />
+
