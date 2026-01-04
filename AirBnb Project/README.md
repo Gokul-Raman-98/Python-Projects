@@ -42,8 +42,36 @@ The goal of this project is to:
 # Change the datatypes of id and host_id columns
 <img width="351" height="573" alt="image" src="https://github.com/user-attachments/assets/e414fd2a-3184-4d60-ad5f-578f66f291b0" />
 
+# Identify the outliers in price field
+<img width="553" height="572" alt="image" src="https://github.com/user-attachments/assets/150fcee5-8df4-4666-bcc6-6eb652497a89" />
 
+# Find the distribution of price column
+<img width="713" height="601" alt="image" src="https://github.com/user-attachments/assets/e01036d9-e96c-4fca-b4a2-b4bbbdf1ad6d" />
 
+# Find the Distribution of availability_365 column
+<img width="555" height="448" alt="image" src="https://github.com/user-attachments/assets/529b91c0-246d-4a62-bb5d-f6de64872d6e" />
 
+# Find the average price for each neighbourhood
+<img width="423" height="181" alt="image" src="https://github.com/user-attachments/assets/bac61b85-3d04-4d25-8e3d-483f3ec28f00" />
 
+# Calculate the price per bed value
+<img width="906" height="722" alt="image" src="https://github.com/user-attachments/assets/5bc0e1f5-2b95-4119-bf75-da5d17c0af5e" />
+
+# Find the average price per bed for each region
+<img width="492" height="188" alt="image" src="https://github.com/user-attachments/assets/d3663e50-dea5-44ac-b41f-9d0e30d4ffe9" />
+
+# # Find the price for each room type with respect to neighbourhood group
+<img width="597" height="555" alt="image" src="https://github.com/user-attachments/assets/be1c6dfa-64b1-4cd4-b93b-694d37fe3728" />
+
+# Find the relation between no. of reviews and price
+<img width="727" height="592" alt="image" src="https://github.com/user-attachments/assets/a4c89ec9-76da-4508-911c-cb8f273d9fa0" />
+
+# Find the relation between price, minimum_nights, number_of_reviews and availability_365 fields
+<img width="803" height="775" alt="image" src="https://github.com/user-attachments/assets/76a0c57e-10cb-4fdd-8544-ea8e0ca2d9a1" />
+
+# Plot the Geographical Distribution of AirBnb Listings
+<img width="891" height="741" alt="image" src="https://github.com/user-attachments/assets/d1a17960-61e8-4a15-b826-ec1ba0e5a06c" />
+
+# Find the correlation of one variable with others for numerical column
+<img width="887" height="742" alt="image" src="https://github.com/user-attachments/assets/a61ecc74-aa70-40b7-ba1a-d2fae6445670" />
 
