@@ -75,3 +75,17 @@ The goal of this project is to:
 # Find the correlation of one variable with others for numerical column
 <img width="887" height="742" alt="image" src="https://github.com/user-attachments/assets/a61ecc74-aa70-40b7-ba1a-d2fae6445670" />
 
+# Key Findings and Insights
+
+## 1. Price Trends
+Manhattan has the most expensive listings, followed by Brooklyn.
+Entire homes/apartments cost significantly more than private or shared rooms.
+
+## 2. Room Type Distribution
+Entire homes/apartments are the most common, but private rooms offer budget-friendly options.
+
+## 3. Outliers in Price
+Few listings priced at $10,000+ were detected, indicating the need to filter such extreme values.
+
+## 4. Availability Patterns
+Listings with high availability tend to have lower prices and more reviews, likely due to better guest experience.
