@@ -36,5 +36,12 @@ The goal of this project is:
 # Getting top n  diseases
 <img width="711" height="262" alt="image" src="https://github.com/user-attachments/assets/d5ad5c89-0741-4b6e-89d7-654a2d658d45" />
 
-# Calculating top 3 diseases percentage of grand total
+# Calculating top 3 diseases percentage of total
 <img width="662" height="387" alt="image" src="https://github.com/user-attachments/assets/14b28931-cd8f-4c1c-b83a-62c8c6168e34" />
+
+# Calculating top 3 diseases percentage of grand total
+<img width="652" height="337" alt="image" src="https://github.com/user-attachments/assets/154b0e8f-493c-4bac-96ae-db563bdacc65" />
+
+# Finding common diseases among genders
+<img width="707" height="502" alt="image" src="https://github.com/user-attachments/assets/358e951a-da7f-4f8b-8c1c-bf320e777436" />
+
