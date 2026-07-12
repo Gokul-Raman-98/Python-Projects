@@ -45,3 +45,13 @@ The goal of this project is:
 # Finding common diseases among genders
 <img width="707" height="502" alt="image" src="https://github.com/user-attachments/assets/358e951a-da7f-4f8b-8c1c-bf320e777436" />
 
+# Finding the stay duration between admission date and discharge date
+<img width="990" height="665" alt="image" src="https://github.com/user-attachments/assets/cf7ddadb-61b9-4193-a80c-d9bc8afdc154" />
+
+# Grouping stay duration
+<img width="992" height="452" alt="image" src="https://github.com/user-attachments/assets/0c7fe940-c694-4385-b178-bcd8512495db" />
+
+# Finding the number of patients in each group
+<img width="607" height="257" alt="image" src="https://github.com/user-attachments/assets/df91aed4-af9e-4b50-9b16-8b8b5655c325" />
+
+# 
