@@ -57,3 +57,5 @@ The goal of this project is:
 # Showing the Grouped patients in bar chart
 <img width="577" height="785" alt="image" src="https://github.com/user-attachments/assets/274064cd-4abd-4239-83a7-05023a7bc0c1" />
 
+# Identifying common cause of death
+<img width="707" height="302" alt="image" src="https://github.com/user-attachments/assets/de19d7e5-b5ba-4455-8f11-57618e505259" />
