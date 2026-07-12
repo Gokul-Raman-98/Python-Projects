@@ -72,4 +72,7 @@ The goal of this project is:
 # Displaying the preentage values in donut chart
 <img width="727" height="582" alt="image" src="https://github.com/user-attachments/assets/f85f432b-046d-4226-84f0-45b3950520d4" />
 
+# Finding peak days of the week on a monthly besis for admissions and discharges
+<img width="760" height="717" alt="image" src="https://github.com/user-attachments/assets/ad28a231-a384-45f1-80fa-bbefe95a355e" />
 
+<img width="926" height="552" alt="image" src="https://github.com/user-attachments/assets/14a9ea67-f895-495e-8745-75421b034f01" />
