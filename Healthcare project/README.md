@@ -64,7 +64,7 @@ The goal of this project is:
 <img width="1012" height="697" alt="image" src="https://github.com/user-attachments/assets/5aa8cf22-41d5-464b-9d53-abbb06ae2435" />
 
 # Finding the percentage of casualities
-<img width="702" height="367" alt="image" src="https://github.com/user-attachments/assets/0c2fea15-03e8-49ee-a4c8-c4a2ea8e7113" />
+<img width="707" height="515" alt="image" src="https://github.com/user-attachments/assets/878b73f3-25c8-4fd3-b19b-7c4f1f163137" />
 
 # Finding percentage of "Recovered" and "Under Treatment" Patients
 <img width="690" height="296" alt="image" src="https://github.com/user-attachments/assets/59f625f0-783c-4686-89ec-4a967225de67" />
