@@ -69,3 +69,7 @@ The goal of this project is:
 # Finding percentage of "Recovered" and "Under Treatment" Patients
 <img width="690" height="296" alt="image" src="https://github.com/user-attachments/assets/59f625f0-783c-4686-89ec-4a967225de67" />
 
+# Displaying the preentage values in donut chart
+<img width="727" height="582" alt="image" src="https://github.com/user-attachments/assets/f85f432b-046d-4226-84f0-45b3950520d4" />
+
+
