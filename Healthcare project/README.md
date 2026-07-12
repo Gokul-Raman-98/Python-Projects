@@ -54,4 +54,6 @@ The goal of this project is:
 # Finding the number of patients in each group
 <img width="607" height="257" alt="image" src="https://github.com/user-attachments/assets/df91aed4-af9e-4b50-9b16-8b8b5655c325" />
 
-# 
+# Showing the Grouped patients in bar chart
+<img width="577" height="785" alt="image" src="https://github.com/user-attachments/assets/274064cd-4abd-4239-83a7-05023a7bc0c1" />
+
