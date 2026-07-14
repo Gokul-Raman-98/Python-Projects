@@ -76,3 +76,22 @@ The goal of this project is:
 <img width="760" height="717" alt="image" src="https://github.com/user-attachments/assets/ad28a231-a384-45f1-80fa-bbefe95a355e" />
 
 <img width="926" height="552" alt="image" src="https://github.com/user-attachments/assets/14a9ea67-f895-495e-8745-75421b034f01" />
+
+# Finding total number of people admitted in weekdays
+<img width="862" height="422" alt="image" src="https://github.com/user-attachments/assets/169ad0da-2242-4ea0-b68a-ad1692854cf2" />
+
+# Displaying admission values in bar chart
+<img width="870" height="740" alt="image" src="https://github.com/user-attachments/assets/44ca9db7-7342-49f9-b954-cabed77d087a" />
+
+# Top 3 and Bottom 3 Days with highest admission
+<img width="620" height="381" alt="image" src="https://github.com/user-attachments/assets/18d4ec4b-4a09-409f-b4e4-492763766878" />
+
+# Finding Total Admission by month filtered by year (e.g. 2022)
+<img width="730" height="477" alt="image" src="https://github.com/user-attachments/assets/42460fcd-af33-4fbe-988e-d0c41e47b1a5" />
+
+<img width="341" height="400" alt="image" src="https://github.com/user-attachments/assets/786bfe7d-1137-4f8e-bd56-9ca5294a211e" />
+
+Displaying Monthwise Admission in Line chart
+<img width="687" height="385" alt="image" src="https://github.com/user-attachments/assets/c8614b97-c949-449d-9826-bd398a7d7587" />
+
+<img width="847" height="502" alt="image" src="https://github.com/user-attachments/assets/77e2a351-59e0-44ee-93b3-a3a86cd3097d" />
