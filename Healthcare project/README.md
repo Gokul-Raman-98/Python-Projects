@@ -91,7 +91,7 @@ The goal of this project is:
 
 <img width="341" height="400" alt="image" src="https://github.com/user-attachments/assets/786bfe7d-1137-4f8e-bd56-9ca5294a211e" />
 
-Displaying Monthwise Admission in Line chart
+# Displaying Monthwise Admission in Line chart
 <img width="687" height="385" alt="image" src="https://github.com/user-attachments/assets/c8614b97-c949-449d-9826-bd398a7d7587" />
 
 <img width="847" height="502" alt="image" src="https://github.com/user-attachments/assets/77e2a351-59e0-44ee-93b3-a3a86cd3097d" />
