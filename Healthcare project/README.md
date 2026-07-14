@@ -95,3 +95,11 @@ The goal of this project is:
 <img width="687" height="385" alt="image" src="https://github.com/user-attachments/assets/c8614b97-c949-449d-9826-bd398a7d7587" />
 
 <img width="847" height="502" alt="image" src="https://github.com/user-attachments/assets/77e2a351-59e0-44ee-93b3-a3a86cd3097d" />
+
+# Analysis Insights
+
+1. Malaria is the most commonly diagnosed Disease among the patients.
+2. Most patients are admistted for more than 21 days.
+3. 85.2% of patients are getting Recovered.
+4. Multiple Organ and respiratory failure is the common cause of Death.
+5. The month of January is facing the most patient inflow.
